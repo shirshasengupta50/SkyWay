@@ -14,4 +14,4 @@ Development of SkyWay is still in process.
 - **AuthService:** https://github.com/Shizzzzzzz7/AuthService
 - **BookingService:** https://github.com/Shizzzzzzz7/BookingService
 - **RemainderService:** https://github.com/Shizzzzzzz7/RemainderService.git
-- **API_GATEWAY:** https://github.com/Shizzzzzzz7/RemainderService.git
+- **API_GATEWAY:** https://github.com/Shizzzzzzz7/API_Gateway
