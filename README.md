@@ -10,8 +10,8 @@ SkyWay is a full fledged Airline Booking System Managment which is based on **Mi
 
 ### List & Links of all Services
 
-- **FlightSearchService:** https://github.com/Shizzzzzzz7/FlightSearchingService
-- **AuthService:** https://github.com/Shizzzzzzz7/AuthService
-- **BookingService:** https://github.com/Shizzzzzzz7/BookingService
-- **RemainderService:** https://github.com/Shizzzzzzz7/RemainderService.git
-- **API_GATEWAY:** https://github.com/Shizzzzzzz7/API_Gateway
+- **FlightSearchService:** https://github.com/shirshasengupta50/FlightSearchingService
+- **AuthService:** https://github.com/shirshasengupta50/AuthService
+- **BookingService:** https://github.com/shirshasengupta50/BookingService
+- **RemainderService:** https://github.com/shirshasengupta50/RemainderService.git
+- **API_GATEWAY:** https://github.com/shirshasengupta50/API_Gateway
